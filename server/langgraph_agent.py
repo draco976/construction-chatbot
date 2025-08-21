@@ -19,8 +19,8 @@ from columns import extract_and_save_sheet_columns, get_sheet_columns
 from grid_lines import extract_and_save_sheet_grid_lines, get_sheet_grid_lines
 from walls import extract_and_save_sheet_walls, get_sheet_walls
 from measurement import extract_measurements_from_sheet
-from elevation import show_exterior_elevations
-from align_detections import align_detections_tool
+# from elevation import show_exterior_elevations
+# from align_detections import align_detections_tool
 import os
 
 # Define the graph state

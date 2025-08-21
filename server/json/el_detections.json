@@ -1,0 +1,586 @@
+{
+  "page": 117,
+  "total_arrows_detected": 27,
+  "detections": [
+    {
+      "id": "EL_1",
+      "text": "EL. - 1'-4 3/4\"",
+      "bbox": {
+        "x": 5132,
+        "y": 2981,
+        "width": 108,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_3",
+          "distance": 60.339948007096325,
+          "arrow_center": [
+            2533.0198974609375,
+            1502.5800170898438
+          ],
+          "arrow_bbox": {
+            "x": 2528.8798828125,
+            "y": 1499.280029296875,
+            "width": 8.280029296875,
+            "height": 6.5999755859375
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_1",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_2",
+      "text": "EL. + 0-0\"",
+      "bbox": {
+        "x": 4445,
+        "y": 428,
+        "width": 80,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_4",
+          "distance": 65.87077189942984,
+          "arrow_center": [
+            2183.219970703125,
+            248.219970703125
+          ],
+          "arrow_bbox": {
+            "x": 2180.280029296875,
+            "y": 243.9599609375,
+            "width": 5.8798828125,
+            "height": 8.52001953125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_2",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_3",
+      "text": "EL. -1'-1 1/4\"",
+      "bbox": {
+        "x": 5155,
+        "y": 2823,
+        "width": 104,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_5",
+          "distance": 62.418347077255945,
+          "arrow_center": [
+            2541.8399658203125,
+            1407.2999877929688
+          ],
+          "arrow_bbox": {
+            "x": 2537.760009765625,
+            "y": 1404.0,
+            "width": 8.159912109375,
+            "height": 6.5999755859375
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_3",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_4",
+      "text": "EL. -0'-8\"",
+      "bbox": {
+        "x": 5192,
+        "y": 2286,
+        "width": 74,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_6",
+          "distance": 84.75663632642116,
+          "arrow_center": [
+            2532.239990234375,
+            1168.9200439453125
+          ],
+          "arrow_bbox": {
+            "x": 2528.0400390625,
+            "y": 1165.800048828125,
+            "width": 8.39990234375,
+            "height": 6.239990234375
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_4",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_5",
+      "text": "EL. - 0-1 3/4\"",
+      "bbox": {
+        "x": 5112,
+        "y": 640,
+        "width": 105,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_7",
+          "distance": 71.6219774640576,
+          "arrow_center": [
+            2516.699951171875,
+            354.3599853515625
+          ],
+          "arrow_bbox": {
+            "x": 2513.760009765625,
+            "y": 350.0400390625,
+            "width": 5.8798828125,
+            "height": 8.639892578125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_5",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_6a",
+      "text": "EL. + 0-0\"",
+      "bbox": {
+        "x": 3309,
+        "y": 387,
+        "width": 80,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_8",
+          "distance": 82.04789893191654,
+          "arrow_center": [
+            1620.8999633789062,
+            261.1199951171875
+          ],
+          "arrow_bbox": {
+            "x": 1619.2799072265625,
+            "y": 256.56005859375,
+            "width": 3.2401123046875,
+            "height": 9.119873046875
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_6",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_6b",
+      "text": "EL. + 0-0\"",
+      "bbox": {
+        "x": 3311,
+        "y": 388,
+        "width": 80,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_9",
+          "distance": 60.92645820960156,
+          "arrow_center": [
+            1665.1199951171875,
+            259.2000732421875
+          ],
+          "arrow_bbox": {
+            "x": 1662.239990234375,
+            "y": 254.880126953125,
+            "width": 5.760009765625,
+            "height": 8.639892578125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_6",
+      "arrow_index": 1
+    },
+    {
+      "id": "EL_7",
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 2946,
+        "y": 333,
+        "width": 83,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_10",
+          "distance": 86.53142440564099,
+          "arrow_center": [
+            1430.3399658203125,
+            230.8800048828125
+          ],
+          "arrow_bbox": {
+            "x": 1428.1199951171875,
+            "y": 226.320068359375,
+            "width": 4.43994140625,
+            "height": 9.119873046875
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_7",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_8",
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 1665,
+        "y": 348,
+        "width": 83,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_11",
+          "distance": 71.78437724046645,
+          "arrow_center": [
+            910.1999816894531,
+            223.2000732421875
+          ],
+          "arrow_bbox": {
+            "x": 907.5599975585938,
+            "y": 218.760009765625,
+            "width": 5.27996826171875,
+            "height": 8.880126953125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_8",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_9",
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 991,
+        "y": 333,
+        "width": 83,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_12",
+          "distance": 93.8248501856696,
+          "arrow_center": [
+            441.41998291015625,
+            228.60009765625
+          ],
+          "arrow_bbox": {
+            "x": 438.5999755859375,
+            "y": 224.280029296875,
+            "width": 5.6400146484375,
+            "height": 8.64013671875
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_9",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_10",
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 489,
+        "y": 1841,
+        "width": 83,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_13",
+          "distance": 55.637955314015144,
+          "arrow_center": [
+            318.71998596191406,
+            910.6200561523438
+          ],
+          "arrow_bbox": {
+            "x": 314.5199890136719,
+            "y": 907.4400634765625,
+            "width": 8.399993896484375,
+            "height": 6.3599853515625
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_10",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_11",
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 489,
+        "y": 2651,
+        "width": 83,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_14",
+          "distance": 63.85101726002521,
+          "arrow_center": [
+            322.97999572753906,
+            1358.280029296875
+          ],
+          "arrow_bbox": {
+            "x": 319.32000732421875,
+            "y": 1354.4400634765625,
+            "width": 7.319976806640625,
+            "height": 7.679931640625
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_11",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_12",
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 489,
+        "y": 3218,
+        "width": 83,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_15",
+          "distance": 51.025067295585515,
+          "arrow_center": [
+            314.6999969482422,
+            1627.0799560546875
+          ],
+          "arrow_bbox": {
+            "x": 310.67999267578125,
+            "y": 1623.719970703125,
+            "width": 8.040008544921875,
+            "height": 6.719970703125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_12",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_13a",
+      "text": "EL. - 1'-0 1/2\"",
+      "bbox": {
+        "x": 1678,
+        "y": 4812,
+        "width": 108,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_16",
+          "distance": 141.06683274804806,
+          "arrow_center": [
+            1002.47998046875,
+            2375.8199462890625
+          ],
+          "arrow_bbox": {
+            "x": 998.1599731445312,
+            "y": 2372.8798828125,
+            "width": 8.6400146484375,
+            "height": 5.880126953125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_13",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_13b",
+      "text": "EL. - 1'-0 1/2\"",
+      "bbox": {
+        "x": 1680,
+        "y": 4813,
+        "width": 108,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_17",
+          "distance": 125.75710129831866,
+          "arrow_center": [
+            750.9599914550781,
+            2360.699951171875
+          ],
+          "arrow_bbox": {
+            "x": 747.0,
+            "y": 2357.159912109375,
+            "width": 7.91998291015625,
+            "height": 7.080078125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_13",
+      "arrow_index": 1
+    },
+    {
+      "id": "EL_14a",
+      "text": "EL. - 1'-0\"",
+      "bbox": {
+        "x": 2633,
+        "y": 4812,
+        "width": 78,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_18",
+          "distance": 72.72909930115064,
+          "arrow_center": [
+            1398.0,
+            2373.47998046875
+          ],
+          "arrow_bbox": {
+            "x": 1395.1199951171875,
+            "y": 2369.159912109375,
+            "width": 5.760009765625,
+            "height": 8.64013671875
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_14",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_14b",
+      "text": "EL. - 1'-0\"",
+      "bbox": {
+        "x": 2635,
+        "y": 4813,
+        "width": 78,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_19",
+          "distance": 127.61060380822795,
+          "arrow_center": [
+            1214.93994140625,
+            2371.1400146484375
+          ],
+          "arrow_bbox": {
+            "x": 1210.5599365234375,
+            "y": 2368.320068359375,
+            "width": 8.760009765625,
+            "height": 5.639892578125
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_14",
+      "arrow_index": 1
+    },
+    {
+      "id": "EL_15",
+      "text": "EL. - 0' -1 1/4\"",
+      "bbox": {
+        "x": 741,
+        "y": 4837,
+        "width": 113,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_20",
+          "distance": 57.031051813136024,
+          "arrow_center": [
+            364.25999450683594,
+            2378.5799560546875
+          ],
+          "arrow_bbox": {
+            "x": 362.6399841308594,
+            "y": 2373.9599609375,
+            "width": 3.240020751953125,
+            "height": 9.239990234375
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_15",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_16a",
+      "text": "EL.  0'-0\"",
+      "bbox": {
+        "x": 3022,
+        "y": 4567,
+        "width": 72,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_24",
+          "distance": 47.331894188023156,
+          "arrow_center": [
+            1500.1199340820312,
+            2326.5
+          ],
+          "arrow_bbox": {
+            "x": 1498.5599365234375,
+            "y": 2322.0,
+            "width": 3.1199951171875,
+            "height": 9.0
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_16",
+      "arrow_index": 0
+    },
+    {
+      "id": "EL_16b",
+      "text": "EL.  0'-0\"",
+      "bbox": {
+        "x": 3024,
+        "y": 4568,
+        "width": 72,
+        "height": 22
+      },
+      "nearby_arrows": [
+        {
+          "arrow_id": "ARROW_25",
+          "distance": 47.14559571078039,
+          "arrow_center": [
+            1483.739990234375,
+            2302.199951171875
+          ],
+          "arrow_bbox": {
+            "x": 1479.8399658203125,
+            "y": 2298.719970703125,
+            "width": 7.800048828125,
+            "height": 6.9599609375
+          }
+        }
+      ],
+      "nearby_arrows_count": 1,
+      "original_el_id": "EL_16",
+      "arrow_index": 1
+    }
+  ]
+}

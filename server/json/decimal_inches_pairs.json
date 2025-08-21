@@ -1,0 +1,156 @@
+{
+  "total_pairs": 20,
+  "pairs": [
+    {
+      "match_id": 1,
+      "door_id": "DOOR_34",
+      "el_id": "EL_1",
+      "decimal_value": "20.18",
+      "inches_value": "-16.75",
+      "distance": 1237.998915267077
+    },
+    {
+      "match_id": 2,
+      "door_id": "DOOR_8",
+      "el_id": "EL_2",
+      "decimal_value": "21.78",
+      "inches_value": "0",
+      "distance": 294.96414148994467
+    },
+    {
+      "match_id": 3,
+      "door_id": "DOOR_34",
+      "el_id": "EL_3",
+      "decimal_value": "20.38",
+      "inches_value": "-13.25",
+      "distance": 455.17662143578303
+    },
+    {
+      "match_id": 4,
+      "door_id": "DOOR_29",
+      "el_id": "EL_4",
+      "decimal_value": "20.38",
+      "inches_value": "-8",
+      "distance": 425.28812411102126
+    },
+    {
+      "match_id": 5,
+      "door_id": "DOOR_30",
+      "el_id": "EL_5",
+      "decimal_value": "No decimal found",
+      "inches_value": "-1.75",
+      "distance": 602.6091229152946
+    },
+    {
+      "match_id": 6,
+      "door_id": "DOOR_7",
+      "el_id": "EL_6a",
+      "decimal_value": "No decimal found",
+      "inches_value": "0",
+      "distance": 108.93613340411478
+    },
+    {
+      "match_id": 7,
+      "door_id": "DOOR_6",
+      "el_id": "EL_6b",
+      "decimal_value": "21.78",
+      "inches_value": "0",
+      "distance": 166.7165496074212
+    },
+    {
+      "match_id": 8,
+      "door_id": "DOOR_16",
+      "el_id": "EL_7",
+      "decimal_value": "21.78",
+      "inches_value": "0",
+      "distance": 123.49980598049275
+    },
+    {
+      "match_id": 9,
+      "door_id": "DOOR_5",
+      "el_id": "EL_8",
+      "decimal_value": "21.78",
+      "inches_value": "0",
+      "distance": 138.89403197447098
+    },
+    {
+      "match_id": 10,
+      "door_id": "DOOR_4",
+      "el_id": "EL_9",
+      "decimal_value": "21.78",
+      "inches_value": "0",
+      "distance": 13.698930270122977
+    },
+    {
+      "match_id": 11,
+      "door_id": "DOOR_11",
+      "el_id": "EL_10",
+      "decimal_value": "21.58",
+      "inches_value": "0",
+      "distance": 104.09927255131979
+    },
+    {
+      "match_id": 12,
+      "door_id": "DOOR_31",
+      "el_id": "EL_11",
+      "decimal_value": "21.58",
+      "inches_value": "0",
+      "distance": 90.1317027668482
+    },
+    {
+      "match_id": 13,
+      "door_id": "DOOR_14",
+      "el_id": "EL_12",
+      "decimal_value": "21.58",
+      "inches_value": "0",
+      "distance": 140.52115196890998
+    },
+    {
+      "match_id": 14,
+      "door_id": "DOOR_27",
+      "el_id": "EL_13a",
+      "decimal_value": "20.78",
+      "inches_value": "-12.50",
+      "distance": 548.7567008652641
+    },
+    {
+      "match_id": 15,
+      "door_id": "DOOR_20",
+      "el_id": "EL_13b",
+      "decimal_value": "20.68",
+      "inches_value": "-12.50",
+      "distance": 541.8125354906118
+    },
+    {
+      "match_id": 16,
+      "door_id": "DOOR_21",
+      "el_id": "EL_14a",
+      "decimal_value": "20.68",
+      "inches_value": "-12",
+      "distance": 646.1701510079286
+    },
+    {
+      "match_id": 17,
+      "door_id": "DOOR_26",
+      "el_id": "EL_14b",
+      "decimal_value": "20.68",
+      "distance": 579.6186362478701
+    },
+    {
+      "match_id": 18,
+      "door_id": "DOOR_29",
+      "el_id": "EL_16a",
+      "decimal_value": "20.38",
+      "inches_value": "0",
+      "distance": 468.8234270102421
+    },
+    {
+      "match_id": 19,
+      "door_id": "DOOR_34",
+      "el_id": "EL_16b",
+      "decimal_value": "20.18",
+      "inches_value": "0",
+      "distance": 529.0845425704493
+    }
+  ]
+}

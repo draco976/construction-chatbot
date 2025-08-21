@@ -1,0 +1,438 @@
+{
+  "page": 117,
+  "total_drawings_analyzed": 354729,
+  "detections": [
+    {
+      "id": "ARROW_1",
+      "text": "ARROW_1",
+      "bbox": {
+        "x": 1106,
+        "y": 2277,
+        "width": 2,
+        "height": 9
+      },
+      "vector_data": {
+        "drawing_id": 350724,
+        "drawing_type": "fs",
+        "area": 18,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_2",
+      "text": "ARROW_2",
+      "bbox": {
+        "x": 1227,
+        "y": 2101,
+        "width": 2,
+        "height": 9
+      },
+      "vector_data": {
+        "drawing_id": 350728,
+        "drawing_type": "fs",
+        "area": 18,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_3",
+      "text": "ARROW_3",
+      "bbox": {
+        "x": 2528,
+        "y": 1499,
+        "width": 8,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 352277,
+        "drawing_type": "fs",
+        "area": 48,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_4",
+      "text": "ARROW_4",
+      "bbox": {
+        "x": 2180,
+        "y": 243,
+        "width": 5,
+        "height": 8
+      },
+      "vector_data": {
+        "drawing_id": 352285,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_5",
+      "text": "ARROW_5",
+      "bbox": {
+        "x": 2537,
+        "y": 1404,
+        "width": 8,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 352291,
+        "drawing_type": "fs",
+        "area": 48,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_6",
+      "text": "ARROW_6",
+      "bbox": {
+        "x": 2528,
+        "y": 1165,
+        "width": 8,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 352299,
+        "drawing_type": "fs",
+        "area": 48,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_7",
+      "text": "ARROW_7",
+      "bbox": {
+        "x": 2513,
+        "y": 350,
+        "width": 5,
+        "height": 8
+      },
+      "vector_data": {
+        "drawing_id": 352307,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_8",
+      "text": "ARROW_8",
+      "bbox": {
+        "x": 1619,
+        "y": 256,
+        "width": 3,
+        "height": 9
+      },
+      "vector_data": {
+        "drawing_id": 352315,
+        "drawing_type": "fs",
+        "area": 27,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_9",
+      "text": "ARROW_9",
+      "bbox": {
+        "x": 1662,
+        "y": 254,
+        "width": 5,
+        "height": 8
+      },
+      "vector_data": {
+        "drawing_id": 352318,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_10",
+      "text": "ARROW_10",
+      "bbox": {
+        "x": 1428,
+        "y": 226,
+        "width": 4,
+        "height": 9
+      },
+      "vector_data": {
+        "drawing_id": 352324,
+        "drawing_type": "fs",
+        "area": 36,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_11",
+      "text": "ARROW_11",
+      "bbox": {
+        "x": 907,
+        "y": 218,
+        "width": 5,
+        "height": 8
+      },
+      "vector_data": {
+        "drawing_id": 352331,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_12",
+      "text": "ARROW_12",
+      "bbox": {
+        "x": 438,
+        "y": 224,
+        "width": 5,
+        "height": 8
+      },
+      "vector_data": {
+        "drawing_id": 352337,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_13",
+      "text": "ARROW_13",
+      "bbox": {
+        "x": 314,
+        "y": 907,
+        "width": 8,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 352344,
+        "drawing_type": "fs",
+        "area": 48,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_14",
+      "text": "ARROW_14",
+      "bbox": {
+        "x": 319,
+        "y": 1354,
+        "width": 7,
+        "height": 7
+      },
+      "vector_data": {
+        "drawing_id": 352351,
+        "drawing_type": "fs",
+        "area": 49,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_15",
+      "text": "ARROW_15",
+      "bbox": {
+        "x": 310,
+        "y": 1623,
+        "width": 8,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 352358,
+        "drawing_type": "fs",
+        "area": 48,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_16",
+      "text": "ARROW_16",
+      "bbox": {
+        "x": 998,
+        "y": 2372,
+        "width": 8,
+        "height": 5
+      },
+      "vector_data": {
+        "drawing_id": 352365,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_17",
+      "text": "ARROW_17",
+      "bbox": {
+        "x": 747,
+        "y": 2357,
+        "width": 7,
+        "height": 7
+      },
+      "vector_data": {
+        "drawing_id": 352368,
+        "drawing_type": "fs",
+        "area": 49,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_18",
+      "text": "ARROW_18",
+      "bbox": {
+        "x": 1395,
+        "y": 2369,
+        "width": 5,
+        "height": 8
+      },
+      "vector_data": {
+        "drawing_id": 352377,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_19",
+      "text": "ARROW_19",
+      "bbox": {
+        "x": 1210,
+        "y": 2368,
+        "width": 8,
+        "height": 5
+      },
+      "vector_data": {
+        "drawing_id": 352380,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_20",
+      "text": "ARROW_20",
+      "bbox": {
+        "x": 362,
+        "y": 2373,
+        "width": 3,
+        "height": 9
+      },
+      "vector_data": {
+        "drawing_id": 352388,
+        "drawing_type": "fs",
+        "area": 27,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_21",
+      "text": "ARROW_21",
+      "bbox": {
+        "x": 706,
+        "y": 1873,
+        "width": 3,
+        "height": 9
+      },
+      "vector_data": {
+        "drawing_id": 352470,
+        "drawing_type": "fs",
+        "area": 27,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_22",
+      "text": "ARROW_22",
+      "bbox": {
+        "x": 2068,
+        "y": 210,
+        "width": 8,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 353021,
+        "drawing_type": "fs",
+        "area": 48,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_23",
+      "text": "ARROW_23",
+      "bbox": {
+        "x": 2409,
+        "y": 1535,
+        "width": 9,
+        "height": 2
+      },
+      "vector_data": {
+        "drawing_id": 353070,
+        "drawing_type": "fs",
+        "area": 18,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_24",
+      "text": "ARROW_24",
+      "bbox": {
+        "x": 1498,
+        "y": 2322,
+        "width": 3,
+        "height": 9
+      },
+      "vector_data": {
+        "drawing_id": 353442,
+        "drawing_type": "fs",
+        "area": 27,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_25",
+      "text": "ARROW_25",
+      "bbox": {
+        "x": 1479,
+        "y": 2298,
+        "width": 7,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 353445,
+        "drawing_type": "fs",
+        "area": 42,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_26",
+      "text": "ARROW_26",
+      "bbox": {
+        "x": 787,
+        "y": 1815,
+        "width": 8,
+        "height": 6
+      },
+      "vector_data": {
+        "drawing_id": 353593,
+        "drawing_type": "fs",
+        "area": 48,
+        "items_count": 3
+      }
+    },
+    {
+      "id": "ARROW_27",
+      "text": "ARROW_27",
+      "bbox": {
+        "x": 371,
+        "y": 2190,
+        "width": 8,
+        "height": 5
+      },
+      "vector_data": {
+        "drawing_id": 354219,
+        "drawing_type": "fs",
+        "area": 40,
+        "items_count": 3
+      }
+    }
+  ]
+}

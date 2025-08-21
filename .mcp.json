@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "figma-1ncpyq-47": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.composio.dev/partner/composio/figma/mcp?customerId=377b627d-5291-44e3-9581-06c1ca41fbe6&agent=claude"
+      ],
+      "env": {
+        "npm_config_yes": "true"
+      }
+    }
+  }
+}

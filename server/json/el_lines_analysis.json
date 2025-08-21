@@ -1,0 +1,510 @@
+{
+  "total_el_detections": 16,
+  "total_drawing_elements": 354729,
+  "total_annotations": 0,
+  "svg_data_available": false,
+  "line_analysis": [
+    {
+      "detection_id": 1,
+      "text": "EL. - 1'-4 3/4\"",
+      "bbox": {
+        "x": 5132,
+        "y": 2981,
+        "width": 108,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2566.0791015625,
+            1490.923583984375,
+            2620.541015625,
+            1502.0003662109375
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 2,
+      "text": "EL. + 0-0\"",
+      "bbox": {
+        "x": 4445,
+        "y": 428,
+        "width": 80,
+        "height": 22
+      },
+      "line_count": 2,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2203.229248046875,
+            243.9009552001953,
+            2212.7763671875,
+            262.0810546875
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2222.759033203125,
+            214.11671447753906,
+            2262.826416015625,
+            225.20294189453125
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 3,
+      "text": "EL. -1'-1 1/4\"",
+      "bbox": {
+        "x": 5155,
+        "y": 2823,
+        "width": 104,
+        "height": 22
+      },
+      "line_count": 2,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2552.0390625,
+            1393.3428955078125,
+            2564.537109375,
+            1402.3553466796875
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2577.839111328125,
+            1411.837646484375,
+            2629.905517578125,
+            1422.9219970703125
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 4,
+      "text": "EL. -0'-8\"",
+      "bbox": {
+        "x": 5192,
+        "y": 2286,
+        "width": 74,
+        "height": 22
+      },
+      "line_count": 4,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2560.398681640625,
+            1163.7005615234375,
+            2571.737548828125,
+            1191.840576171875
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2560.398681640625,
+            1163.7005615234375,
+            2571.737548828125,
+            1191.840576171875
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2568.119140625,
+            1118.6614990234375,
+            2588.5703125,
+            1128.220703125
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2596.43896484375,
+            1143.2755126953125,
+            2633.507080078125,
+            1154.3629150390625
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 5,
+      "text": "EL. - 0-1 3/4\"",
+      "bbox": {
+        "x": 5112,
+        "y": 640,
+        "width": 105,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            2556.239013671875,
+            320.2007751464844,
+            2609.023681640625,
+            331.2818603515625
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 6,
+      "text": "EL. + 0-0\"",
+      "bbox": {
+        "x": 3309,
+        "y": 387,
+        "width": 80,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            1654.79931640625,
+            193.72080993652344,
+            1694.863525390625,
+            204.8018798828125
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 7,
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 2946,
+        "y": 333,
+        "width": 83,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            1473.4793701171875,
+            166.5972442626953,
+            1515.226318359375,
+            177.68275451660156
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 8,
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 1665,
+        "y": 348,
+        "width": 83,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            832.5596313476562,
+            174.0371856689453,
+            874.3065795898438,
+            185.12269592285156
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 9,
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 991,
+        "y": 333,
+        "width": 83,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            495.59979248046875,
+            166.5972442626953,
+            537.3467407226562,
+            177.68275451660156
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 10,
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 489,
+        "y": 1841,
+        "width": 83,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            244.6798858642578,
+            920.5570678710938,
+            286.4268798828125,
+            931.642578125
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 11,
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 489,
+        "y": 2651,
+        "width": 83,
+        "height": 22
+      },
+      "line_count": 2,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            263.0398864746094,
+            1355.9771728515625,
+            267.4585266113281,
+            1365.59326171875
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            244.6798858642578,
+            1325.796875,
+            286.4268798828125,
+            1336.88232421875
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 12,
+      "text": "EL. + 0'-0\"",
+      "bbox": {
+        "x": 489,
+        "y": 3218,
+        "width": 83,
+        "height": 22
+      },
+      "line_count": 2,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            305.2798767089844,
+            1638.625244140625,
+            324.7920227050781,
+            1648.17919921875
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            244.6798858642578,
+            1609.3568115234375,
+            286.4268798828125,
+            1620.4422607421875
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 13,
+      "text": "EL. - 1'-0 1/2\"",
+      "bbox": {
+        "x": 1678,
+        "y": 4812,
+        "width": 108,
+        "height": 22
+      },
+      "line_count": 2,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            913.0796508789062,
+            2412.498779296875,
+            929.5415649414062,
+            2421.515625
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            839.2796630859375,
+            2406.396240234375,
+            893.74658203125,
+            2417.48193359375
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 14,
+      "text": "EL. - 1'-0\"",
+      "bbox": {
+        "x": 2633,
+        "y": 4812,
+        "width": 78,
+        "height": 22
+      },
+      "line_count": 1,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            1316.7593994140625,
+            2406.396240234375,
+            1356.226318359375,
+            2417.48193359375
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 15,
+      "text": "EL. - 0' -1 1/4\"",
+      "bbox": {
+        "x": 741,
+        "y": 4837,
+        "width": 113,
+        "height": 22
+      },
+      "line_count": 2,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            439.7998046875,
+            2411.1787109375,
+            456.26165771484375,
+            2420.195556640625
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            370.5598449707031,
+            2418.6435546875,
+            427.42138671875,
+            2429.7197265625
+          ],
+          "flags": 4
+        }
+      ]
+    },
+    {
+      "detection_id": 16,
+      "text": "EL.  0'-0\"",
+      "bbox": {
+        "x": 3022,
+        "y": 4567,
+        "width": 72,
+        "height": 22
+      },
+      "line_count": 2,
+      "lines": [
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            1469.9993896484375,
+            2275.725341796875,
+            1488.5908203125,
+            2285.253173828125
+          ],
+          "flags": 4
+        },
+        {
+          "source": "text_graphics",
+          "type": "inline_graphic",
+          "bbox": [
+            1511.2794189453125,
+            2283.879150390625,
+            1547.744384765625,
+            2294.961181640625
+          ],
+          "flags": 4
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "avg_lines_per_el": 1.625,
+    "max_lines_per_el": 4,
+    "min_lines_per_el": 1,
+    "sources_found": [
+      "text_graphics"
+    ]
+  }
+}

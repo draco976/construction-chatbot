@@ -1,0 +1,365 @@
+{
+  "page": 44,
+  "detections": [
+    {
+      "id": "DOOR_1",
+      "text": "DOOR (P5 45\u00b0 1.00)",
+      "bbox": {
+        "x": 911,
+        "y": 2743,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_2",
+      "text": "DOOR (P6 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 2638,
+        "y": 2381,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_3",
+      "text": "DOOR (P6 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 2746,
+        "y": 2712,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_4",
+      "text": "DOOR (P6 45\u00b0 1.00)",
+      "bbox": {
+        "x": 3061,
+        "y": 2382,
+        "width": 56,
+        "height": 56
+      }
+    },
+    {
+      "id": "DOOR_5",
+      "text": "DOOR (P7 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 3545,
+        "y": 2379,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_6",
+      "text": "DOOR (P7 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 4093,
+        "y": 2408,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_7",
+      "text": "DOOR (P7 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 4150,
+        "y": 2408,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_8",
+      "text": "DOOR (P7 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 4553,
+        "y": 2407,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_9",
+      "text": "DOOR (P9 45\u00b0 1.00)",
+      "bbox": {
+        "x": 910,
+        "y": 2872,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_10",
+      "text": "DOOR (P9 45\u00b0 1.00)",
+      "bbox": {
+        "x": 909,
+        "y": 2929,
+        "width": 63,
+        "height": 63
+      }
+    },
+    {
+      "id": "DOOR_11",
+      "text": "DOOR (P10 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 2729,
+        "y": 3250,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_12",
+      "text": "DOOR (P10 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 2763,
+        "y": 3750,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_13",
+      "text": "DOOR (P10 45\u00b0 1.00)",
+      "bbox": {
+        "x": 2730,
+        "y": 2944,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_14",
+      "text": "DOOR (P10 45\u00b0 1.00)",
+      "bbox": {
+        "x": 3045,
+        "y": 3582,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_15",
+      "text": "DOOR (P10 45\u00b0 1.00)",
+      "bbox": {
+        "x": 2991,
+        "y": 2898,
+        "width": 51,
+        "height": 71
+      }
+    },
+    {
+      "id": "DOOR_16",
+      "text": "DOOR (P11 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 3948,
+        "y": 2378,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_17",
+      "text": "DOOR (P11 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 3999,
+        "y": 4028,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_18",
+      "text": "DOOR (P11 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 4020,
+        "y": 4063,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_19",
+      "text": "DOOR (P13 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 925,
+        "y": 3819,
+        "width": 59,
+        "height": 64
+      }
+    },
+    {
+      "id": "DOOR_20",
+      "text": "DOOR (P14 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 3474,
+        "y": 4172,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_21",
+      "text": "DOOR (P14 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 3553,
+        "y": 4170,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_22",
+      "text": "DOOR (P14 45\u00b0 1.00)",
+      "bbox": {
+        "x": 3280,
+        "y": 4160,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_23",
+      "text": "DOOR (P14 45\u00b0 1.00)",
+      "bbox": {
+        "x": 2656,
+        "y": 4161,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_24",
+      "text": "DOOR (P14 45\u00b0 1.00)",
+      "bbox": {
+        "x": 2580,
+        "y": 4161,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_25",
+      "text": "DOOR (P15 -45\u00b0 1.00)",
+      "bbox": {
+        "x": 3884,
+        "y": 4172,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_26",
+      "text": "DOOR (P15 45\u00b0 1.00)",
+      "bbox": {
+        "x": 3699,
+        "y": 4169,
+        "width": 63,
+        "height": 63
+      }
+    },
+    {
+      "id": "DOOR_27",
+      "text": "DOOR (P15 45\u00b0 1.00)",
+      "bbox": {
+        "x": 3390,
+        "y": 4163,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_28",
+      "text": "DOOR (P10 -45\u00b0 0.99)",
+      "bbox": {
+        "x": 1837,
+        "y": 4096,
+        "width": 61,
+        "height": 50
+      }
+    },
+    {
+      "id": "DOOR_29",
+      "text": "DOOR (P11 45\u00b0 0.97)",
+      "bbox": {
+        "x": 4805,
+        "y": 3394,
+        "width": 61,
+        "height": 61
+      }
+    },
+    {
+      "id": "DOOR_30",
+      "text": "DOOR (P11 45\u00b0 0.93)",
+      "bbox": {
+        "x": 4811,
+        "y": 3015,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_31",
+      "text": "DOOR (P14 45\u00b0 0.88)",
+      "bbox": {
+        "x": 2721,
+        "y": 3635,
+        "width": 57,
+        "height": 57
+      }
+    },
+    {
+      "id": "DOOR_32",
+      "text": "DOOR (P10 45\u00b0 0.86)",
+      "bbox": {
+        "x": 2642,
+        "y": 3375,
+        "width": 56,
+        "height": 56
+      }
+    },
+    {
+      "id": "DOOR_33",
+      "text": "ADOOR (P10 45\u00b0 0.84)",
+      "bbox": {
+        "x": 1826,
+        "y": 2494,
+        "width": 67,
+        "height": 67
+      }
+    },
+    {
+      "id": "DOOR_34",
+      "text": "DOOR (P11 45\u00b0 0.72)",
+      "bbox": {
+        "x": 4807,
+        "y": 3489,
+        "width": 60,
+        "height": 60
+      }
+    },
+    {
+      "id": "DOOR_35",
+      "text": "TDOOR (P14 45\u00b0 0.70)",
+      "bbox": {
+        "x": 2440,
+        "y": 4151,
+        "width": 71,
+        "height": 71
+      }
+    },
+    {
+      "id": "DOOR_36",
+      "text": "~DOOR (P10 -45\u00b0 0.60)",
+      "bbox": {
+        "x": 2265,
+        "y": 2390,
+        "width": 65,
+        "height": 59
+      }
+    }
+  ]
+}
